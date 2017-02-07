@@ -1,0 +1,21 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion "25.0.0"
+
+    defaultConfig {
+        minSdkVersion 21
+        targetSdkVersion 24
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+    }
+}
+
+dependencies {
+    compile 'com.google.android.gms:play-services-wearable:10.0.1'
+    provided files('unityvractivity.jar')
+    provided files('unity-classes.jar')
+}

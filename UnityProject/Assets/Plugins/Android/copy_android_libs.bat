@@ -1,0 +1,4 @@
+copy ..\..\..\..\AndroidProjects\sensorvaluesreceiverlib\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar support-v4.24.00.jar
+copy ..\..\..\..\AndroidProjects\sensorvaluesreceiverlib\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.00\jars\classes.jar play-services-base.9.8.00.jar
+copy ..\..\..\..\AndroidProjects\sensorvaluesreceiverlib\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.00\jars\classes.jar play-services-basement.9.8.00.jar
+copy ..\..\..\..\AndroidProjects\sensorvaluesreceiverlib\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.8.00\jars\classes.jar play-services-wearable.9.8.00.jar
